@@ -2,12 +2,11 @@
 
 import cgi
 import logging
+import types
+from StringIO import StringIO
 
 import lex
-import types
-
 from lex import Token
-from StringIO import StringIO
 
   
 def ParseView(text, ignore_whitespace):

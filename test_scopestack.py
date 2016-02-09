@@ -1,7 +1,8 @@
 # Alex Lusco
 
 import unittest
-from scopestack import ScopeStack
+
+from pyrazor.scopestack import ScopeStack
 
 STEP = 5
 

@@ -1,7 +1,9 @@
 # Alex Lusco
 
 import unittest
-from razorview import ViewIO
+
+from pyrazor.razorview import ViewIO
+
 
 class ScopeStackTest(unittest.TestCase):
 

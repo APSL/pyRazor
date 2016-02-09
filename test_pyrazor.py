@@ -5,7 +5,7 @@
 """
 
 import unittest
-import pyrazor
+from pyrazor import pyrazor
 import cgi
 import tempfile
 import textwrap
